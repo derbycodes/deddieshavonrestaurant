@@ -1,2 +1,2 @@
 # deddieshavonrestaurant
-A restaurant website 
+A restaurant website template 
